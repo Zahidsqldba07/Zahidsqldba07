@@ -1,7 +1,9 @@
 💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 
 
 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 
+
 🔰NoSQL 🔰BIG Data 🔰Technical 🔰
+
 📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌
 
 - 👋 Hi, I’m @Zahidsqldba07
