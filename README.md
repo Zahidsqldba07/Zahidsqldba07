@@ -1,16 +1,23 @@
 ### Hi there 👋, my name is MD ZAHEDUL ISLAM
 #### 💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌📌 Easy-Approach || Well-Explained || Less coding 🐍 
+
 ![💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌📌 Easy-Approach || Well-Explained || Less coding 🐍 ](https://media-exp1.licdn.com/dms/image/D5616AQGT-cZYGfgLpw/profile-displaybackgroundimage-shrink_350_1400/0/1665929650765?e=1673481600&v=beta&t=SbNdm8MyZk1E9IDXQEt1ngtEw_VDuPp5IheDzT3ZOf8)
 
-I am an Oracle Certified Professional. I have completed a master's in computer science from the University of Dhaka. I have more than 15+ years of experience as an IT Professional. I work on various projects in various fields. My background includes skills in Data science, Python, R, Power BI, DAX Formula, Excel, VBA, Macro, ML, AI, SQL, MySQL, Pl/SQL, Oracle, Access, SQL Server, Database, Normalization, ERD, Visio, lucid chart and many more.
+🌍 I am an 🎖 Oracle Certified Database Professional (OCP). I have a complete masters in 🎀 computer science. I am a ✨ database professional with 🥇 15 years of experience. My background includes skills in ⛳ Data science, 🐍Python, 🐲R, 🐢 MS Power BI, 🐦 SQL, 🐿 MySQL, 🐫 PL/SQL, 🐋 Oracle, 🐟 Access, 🐬 SQL Server, Database, Normalization, ERD, Visio, or lucid chart.
 
-I always use the most up-to-date techniques to help gain an edge over the competition. I strongly believe that I will be able to make any kind of project successful within a short period of time. Experience is the golden factor. It is my passion and I take abundant pride and satisfaction in achieving great results.
+🎖I always use the most 💐 up-to-date techniques to help gain an edge over the competition. I 🍀 strongly believe that I will be able to make any kind of 🌴 project successful within a short period of time. 🌻 Experience is the golden factor. It is my 🏵 passion and I take abundant pride and 🌱 satisfaction in achieving great results 🦗 .
 
-I have done many projects, for more details you can review my portfolio, profiles, and employment history where you will find projects similar to yours. I am highly interested to work for you and very excited to assist you with any project. I am looking forward to hearing from you in the near future about any opportunity!
+🏆 I have done many projects that are 🎉 similar to yours. For more details, you can review my 🎁 portfolio, profiles, and 🎨 employment history where you will find 🎭 projects similar to yours.
 
-Thank you in advance for your time and consideration.
+🐍I am highly 🎯 interested to work for you and very 🏀 excited to assist you with any 🎈 project. I am looking forward to 🎃 hearing from you in the near 🍷 future about this opportunity.
 
-Skills: Data science, Python, R, Power BI, DAX Formula, Excel, VBA, Macro, ML, AI, SQL, MySQL, Pl/SQL, Oracle, Access, SQL Server, Database, Normalization, ERD, Visio, lucid chart and many more
+🎭 Thank you in advance for your 🥇time and consideration.🎖
+
+
+💜 With Regards 💜 
+
+💚 Md Zahedul Islam 💚 
+💛 Oracle Certified Database Professional 💛
 
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning Python 
