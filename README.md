@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is MD ZAHEDUL ISLAM
-#### 💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌📌 Easy-Approach || Well-Explained || Less coding 🐍 
+⛈ Salesforce Administrator ⛈ CRM ⛈ CPQ | Data Scientist | 🐍Python |Power BI |Excel VBA | SQL | MySQL |NoSQL | BIG Data ⛈ VA
 
 ![💕Data Scientist 💕 Specialist in 🐍🐍Python🐍🐍 ✅Power BI ✅Excel 💯VBA 💯SQL 💯MySQL 🔰NoSQL 🔰BIG Data 🔰Technical 🔰📥📍Support📍📥 🎯(IT)🎯I LOVE CODING 📌📌 Easy-Approach || Well-Explained || Less coding 🐍 ](https://media-exp1.licdn.com/dms/image/D5616AQGT-cZYGfgLpw/profile-displaybackgroundimage-shrink_350_1400/0/1665929650765?e=1673481600&v=beta&t=SbNdm8MyZk1E9IDXQEt1ngtEw_VDuPp5IheDzT3ZOf8)
 
