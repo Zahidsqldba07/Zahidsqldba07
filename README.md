@@ -2,12 +2,19 @@
 🌍To establish a long-term career in an organization where I may utilize my Salesforce professional skills and knowledge to be an effective Technical CRM analyst and inspiration to those around me.
 
 ⛈ Created user groups and configure workflows and assignment rules to enable proper routing of leads to the marketing members.
+
 ⛈ Designed and deployed Custom tabs, validation rules, Approval Processes and Auto-Response Rules for automating business logic.
+
 ⛈ Configured Profiles and Administrative permissions to grant/deny users access to platform features. Created Customized dashboards for the case team members to keep track of the cases assigned to them and to share insight across the company.
+
 ⛈ Implemented pick lists, filed dependencies, lookups, master-detail relationships, validation and formula fields to the custom objects.
+
 ⛈ Customized Marketing application to create a web to lead forms, Campaign to lead forms, assigning tasks, and managing workflows.
+
 ⛈ Involved in preparing Business Requirement Document and Functional Requirement Document.
+
 ⛈ Redesigned through customization and applications within salesforce.com, including the implementation of Solutions and Leads Training of salesforce.com globally for the Sales and Marketing Teams.
+
 ⛈ Designed of a standardized Sales Process to be used by all team members in each service line and division based on Sales and Marketing preference and requirements. Create reports and dashboards for each geography within service lines based on necessary analytics.
 
 
